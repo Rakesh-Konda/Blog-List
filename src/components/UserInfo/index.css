@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.pro {
+  width: 100px;
+  height: 100px;
+}
+.c {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

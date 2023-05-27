@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.ul {
+  list-style-type: none;
+}
+.mid {
+  display: flex;
+  justify-content: space-between;
+}
+.col {
+  color: #9aa5b1;
+  margin-right: 10px;
+}
+.hr {
+  margin-left: 0px;
+  margin-right: 10px;
+}
